@@ -1,0 +1,3 @@
+cscript "c:\Program Files\Microsoft Offscript "c:\Program Files\Microsoft Office\Office16\OSPP.VBS" /dstatusice\Office16\OSPP.VBS" /dstatus
+
+pause
